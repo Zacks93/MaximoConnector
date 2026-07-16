@@ -5,3 +5,5 @@ customtkinter
 orjson
 python-dotenv
 configparser
+beautifulsoup4
+lxml
