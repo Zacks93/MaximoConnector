@@ -1,0 +1,7 @@
+requests
+pandas
+openpyxl
+customtkinter
+orjson
+python-dotenv
+configparser
